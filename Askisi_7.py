@@ -32,7 +32,7 @@ for Year in range (Year, Year + 11):
 			if Day_2 == Day:
 				count = count + 1
 	Month = 1
-print ("The next 10 years will have ", count, Day,"'s", " that will be the ", Date, " of a month.") 
+print ("The next 10 years will have ", count, Day,"'s", " that will be the ", Date, " of a month including today.") 
 		
 
 		
